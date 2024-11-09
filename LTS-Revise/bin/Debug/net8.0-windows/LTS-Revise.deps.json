@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LTS-Revise/1.0.0": {
+        "runtime": {
+          "LTS-Revise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LTS-Revise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
